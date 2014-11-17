@@ -1,0 +1,6 @@
+beautifulsoup4==4.3.2
+prettytable==0.7.2
+requests==2.3.0
+#requests-cache (0.4.5)
+#setuptools (2.1)
+XlsxWriter==0.5.7
