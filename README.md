@@ -3,7 +3,7 @@
 
 Hämta lagerstatus för en produkt, för alla butiker. Exporterar lagerstatus, lat och long per butik, till XLSX.
 
-Testat emd Python 3.4.
+Testat med Python 3.4.
 
 
 ## Installera
