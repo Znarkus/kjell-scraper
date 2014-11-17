@@ -1,7 +1,7 @@
 
 # Kjell scraper
 
-Hämta lagerstatus för en produkt för alla butiker. Exporterar lagerstatus, lat och long per butik till XLSX.
+Hämta lagerstatus för en produkt, för alla butiker. Exporterar lagerstatus, lat och long per butik, till XLSX.
 
 
 ## Installera
