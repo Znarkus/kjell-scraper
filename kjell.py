@@ -1,10 +1,3 @@
-#
-# import http.cookiejar, urllib.request
-# cj = http.cookiejar.CookieJar()
-# opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
-#
-# r = opener.open("http://example.com/")
-
 import requests
 from urllib.parse import urlparse
 from bs4 import BeautifulSoup
